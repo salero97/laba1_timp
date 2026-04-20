@@ -1,0 +1,19 @@
+{
+  "incidents": [
+    {
+      "zone": "Этаж 3, коридор",
+      "severity": "WARNING",
+      "status": "ACTIVE",
+      "description": "Горим",
+      "id": "tuQL2RjaYzA"
+    },
+    {
+      "zone": "Этаж 4, спальня",
+      "severity": "CRITICAL",
+      "status": "ACTIVE",
+      "description": "Сгорели\n",
+      "id": "OQ-MpdXhWI4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
